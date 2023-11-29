@@ -6,4 +6,4 @@ This is the Repository for my bookins and reservations project.
 - Uses the chi Router
 - Uses AlexEduards SCS Session management
 - Uses nosurf
-- More topics
+- More topics to see
